@@ -75,21 +75,21 @@ function Produtos() {
             <ImagemProdutos src={pimenta1} alt='Pimenta Jaum' />
           </Box>
           <NomeProduto>Pimenta X</NomeProduto>
-          <PrecoProduto>R$ 0,12</PrecoProduto>
+          <PrecoProduto>R$ 22,12</PrecoProduto>
         </ProdutoWrapper>
         <ProdutoWrapper>
           <Box>
             <ImagemProdutos src={pimenta2} alt='Pimenta Jhonas' />
           </Box>
           <NomeProduto>Pimenta Forte</NomeProduto>
-          <PrecoProduto>R$ 0,12</PrecoProduto>
+          <PrecoProduto>R$ 25,15</PrecoProduto>
         </ProdutoWrapper>
         <ProdutoWrapper>
           <Box>
             <ImagemProdutos src={pimenta3} alt='Pimenta Jaum' />
           </Box>
           <NomeProduto>Pimenta Y</NomeProduto>
-          <PrecoProduto>R$ 0,12</PrecoProduto>
+          <PrecoProduto>R$ 20,99</PrecoProduto>
         </ProdutoWrapper>
 
       </ProdutosContainer>
