@@ -1,13 +1,18 @@
-# Sgt. Peppers - Pimentas Artesanais
+<h1 align="center">
+     🌶️ Sgt. Pepper's - Pimentas artesanais  </a>
+</h1>
 
-Esse é um projeto feito a partir do desafio proposto da Gama Academy de criar uma landing page.
+<h3 align="center">
+    Esse é um projeto feito a partir do desafio proposto da Gama Academy de criar uma landing page.
+</h3>
+
 
 <div align="center">
   <kbd>
-    <img src="https://i.imgur.com/S0bMveM.jpeg"/>
+    <img src="https://i.imgur.com/iAb9IaR.jpg" width="400px" />
    </kbd>
    <kbd>
-    <img src="https://i.imgur.com/D7JEym7.jpeg" />
+    <img src="https://i.imgur.com/D7JEym7.jpeg" width="400px" />
   </kbd>
 </div>
 
