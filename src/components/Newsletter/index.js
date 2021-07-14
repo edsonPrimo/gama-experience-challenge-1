@@ -8,7 +8,7 @@ const Box = styled.section`
   height: 200px;
   width: 100%;
   text-align: center;
-  margin-top: 5.5rem;
+  margin-top: 2rem;
 `
 const TituloH2 = styled.h2`
   color: ${cor4};
