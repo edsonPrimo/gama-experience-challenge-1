@@ -4,7 +4,10 @@ Esse é um projeto feito a partir do desafio proposto da Gama Academy de criar u
 
 <div align="center">
   <kbd>
-    <img https://i.imgur.com/S0bMveM.jpg/>
+    <img src="https://i.imgur.com/S0bMveM.jpeg"/>
+   </kbd>
+   <kbd>
+    <img src="https://i.imgur.com/D7JEym7.jpeg" />
   </kbd>
 </div>
 
