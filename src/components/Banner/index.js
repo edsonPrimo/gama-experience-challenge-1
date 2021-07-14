@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import banner from '../../assets/images/Pimentas/banner-edit.png'
-import {cor3, cor1, cor2, cor5, cor4} from '../UI/variaveis'
+import banner from '../../assets/images/Pimentas/banne-edit3.png'
+import {cor3, cor2} from '../UI/variaveis'
 
 const DivBanner = styled.div`
   width: 100%;
@@ -11,6 +11,14 @@ const DivBanner = styled.div`
   background-repeat: no-repeat;
   background-position: right;
   padding-top: 1.7rem;
+  margin-top: 1.5rem;
+
+  @media screen and (min-width: 1800px) {
+    background-size: cover;
+  }
+  @media screen and (max-width: 650px) {
+    background-position: -1090px;
+  }
 `
 const Titulo = styled.h1`
   font-family: 'Montserrat', sans-serif;
@@ -20,21 +28,29 @@ const Titulo = styled.h1`
   text-align: center;
 `
 const ParagrafoBanner = styled.p`
-  color: ${cor4};
+  color: ${cor2};
   font-size: 2rem;
+  font-weight: 300;
   top: 50%;
   text-shadow: 2px 2px #000;
   font-family: 'Montserrat', sans-serif;
   text-align: justify;
   padding: 3rem 1rem 2rem 1rem;
   line-height: 1.5;
+
+  @media screen and (max-width: 1024px) {
+    display: none;
+  }
 `
 const Box = styled.div`
   width: 40%;
-  height: 450px;
-  background: rgba(0, 0, 0, 0.101);
-  padding: 3rem 1.2rem;
+  height: 470px;
+  padding: 2rem;
   border-radius: 8px;
+
+  @media screen and (max-width: 600px) {
+    width: 100%;
+  }
   
 `
 function Banner() {
