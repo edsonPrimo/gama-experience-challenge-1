@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a3d05187.chunk.js",
+    "main.js.map": "/static/js/main.a3d05187.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e500d1e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e500d1e8.js.map",
+    "static/js/2.fad17819.chunk.js": "/static/js/2.fad17819.chunk.js",
+    "static/js/2.fad17819.chunk.js.map": "/static/js/2.fad17819.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.fad17819.chunk.js.LICENSE.txt": "/static/js/2.fad17819.chunk.js.LICENSE.txt",
+    "static/media/banne-edit3.3a4e1d31.png": "/static/media/banne-edit3.3a4e1d31.png",
+    "static/media/home-background-img.60acfc9b.jpg": "/static/media/home-background-img.60acfc9b.jpg",
+    "static/media/logo.bd1d861e.png": "/static/media/logo.bd1d861e.png",
+    "static/media/logo_rotulo-edit.b739b186.png": "/static/media/logo_rotulo-edit.b739b186.png",
+    "static/media/pimenta1.d3b9ff5e.png": "/static/media/pimenta1.d3b9ff5e.png",
+    "static/media/pimenta2.a81e67d4.png": "/static/media/pimenta2.a81e67d4.png",
+    "static/media/pimenta3.190c2db8.png": "/static/media/pimenta3.190c2db8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e500d1e8.js",
+    "static/js/2.fad17819.chunk.js",
+    "static/js/main.a3d05187.chunk.js"
+  ]
+}
