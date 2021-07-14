@@ -6,6 +6,8 @@
     Esse é um projeto feito a partir do desafio proposto da Gama Academy de criar uma landing page.
 </h3>
 
+## Projeto online na Vercel
+- [Sgt. Pepper's - Pimentas artesanais](https://landingpage-desafio-gama-experience.vercel.app)
 
 <div align="center">
   <kbd>
